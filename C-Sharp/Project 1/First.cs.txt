@@ -1,0 +1,15 @@
+using System;
+
+public class ABC
+{
+    public static void Main(string[] args)
+    {
+       //Variable declaration & Initialization
+        int age=20;
+        string name="Awais Abid";
+        //Printing Age
+        Console.WriteLine(age);
+        //Printing Name
+        Console.WriteLine(name);
+    }
+}
